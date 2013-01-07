@@ -16,8 +16,10 @@
     "pool",
     "simple"
   ],
-  "author": {
-    "name": "Roel van Uden"
+  "author": "Roel van Uden",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "~2.0.0-alpha5"
   },
-  "license": "MIT"
+  "devDependencies": {}
 }
