@@ -1,6 +1,6 @@
 {
   "name": "mysql-simple-pool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple connection pooling for Node and MySQL.",
   "main": "index.js",
   "scripts": {
