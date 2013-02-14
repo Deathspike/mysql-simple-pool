@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Deathspike/mysql-simple-pooling.git"
+    "url": "https://github.com/Deathspike/mysql-simple-pool.git"
   },
   "keywords": [
     "mysql",
